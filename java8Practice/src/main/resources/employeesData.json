@@ -1,0 +1,36 @@
+[
+  {
+    "employeeId": "59-385-1088",
+    "firstName": "mani",
+    "lastName": "Schwerin",
+    "email": "zschwerin0@altervista.org",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "FALSE",
+    "salary": 101146,
+    "rating": 0
+  },
+  {
+    "employeeId": "73-274-6476",
+    "firstName": "saiGadu",
+    "lastName": "Frudd",
+    "email": "kfrudd1@ovh.net",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "TRUE",
+    "salary": 29310,
+    "rating": 2
+  },
+  {
+    "employeeId": "85-939-9584",
+    "firstName": "mohan",
+    "lastName": "Gumb",
+    "email": "agumb2@twitter.com",
+    "gender": "Female",
+    "newJoiner": "TRUE",
+    "learningPending": "TRUE",
+    "salary": 62291,
+    "rating": 4
+  }
+
+]

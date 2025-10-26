@@ -1,0 +1,68 @@
+{
+  "name": "Sample Data",
+  "version": 1,
+  "isActive": true,
+  "tags": ["json", "example", "practice"],
+
+  "metadata": {
+    "createdBy": "ChatGPT",
+    "createdAt": "2025-07-11",
+    "properties": {
+      "priority": "high",
+      "category": "test",
+      "details": {
+        "owner": "John Doe",
+        "team": "Engineering",
+        "dependencies": ["ModuleA", "ModuleB", "ModuleC"]
+      }
+    }
+  },
+
+  "items": [
+    {
+      "id": 101,
+      "type": "book",
+      "title": "Learning JSON",
+      "authors": ["Alice", "Bob"],
+      "ratings": [4.5, 4.0, 5.0]
+    },
+    {
+      "id": 102,
+      "type": "video",
+      "title": "JSON Tutorial",
+      "contributors": [
+        {
+          "name": "Charlie",
+          "role": "Host"
+        },
+        {
+          "name": "Dave",
+          "role": "Editor"
+        }
+      ],
+      "durations": [
+        [5, 10, 15],
+        [20, 25],
+        []
+      ]
+    }
+  ],
+
+  "extraData": [
+    {
+      "key": "config",
+      "value": {
+        "enabled": true,
+        "thresholds": [10, 20, 30],
+        "flags": {
+          "debug": false,
+          "verbose": true
+        }
+      }
+    },
+    {
+      "key": "notes",
+      "value": ["Note1", "Note2"]
+    }
+  ]
+}
